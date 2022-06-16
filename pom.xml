@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://172.31.5.27:8081/repository/tdb-app-release/</url>
+	      <url>http://172.31.14.40:8081/repository/tdb-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://172.31.5.27:8081/repository/tdb_app_snapshot/</url>
+	      <url>http://172.31.14.40:8081/repository/tdb_app_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
