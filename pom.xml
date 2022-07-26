@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>2.0.2-SNAPSHOT</version>
+	<version>1.0.2-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://172.31.12.38:5000/</sonar.host.url>
+		<sonar.host.url>http://172.31.8.190:5000/</sonar.host.url>
 		<sonar.login>admim</sonar.login>
 		<sonar.password>admim123</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
